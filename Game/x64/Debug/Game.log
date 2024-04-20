@@ -1,0 +1,14 @@
+﻿  GameGrid.cpp
+C:\Users\Fabio\Desktop\Tetris Game - Copy\Game\Game\GameGrid.cpp(28,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Fabio\Desktop\Tetris Game - Copy\Game\Game\GameGrid.cpp(28,68): warning C4244:         with
+C:\Users\Fabio\Desktop\Tetris Game - Copy\Game\Game\GameGrid.cpp(28,68): warning C4244:         [
+C:\Users\Fabio\Desktop\Tetris Game - Copy\Game\Game\GameGrid.cpp(28,68): warning C4244:             T=float
+C:\Users\Fabio\Desktop\Tetris Game - Copy\Game\Game\GameGrid.cpp(28,68): warning C4244:         ]
+C:\Users\Fabio\Desktop\Tetris Game - Copy\Game\Game\GameGrid.cpp(28,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Fabio\Desktop\Tetris Game - Copy\Game\Game\GameGrid.cpp(28,52): warning C4244:         with
+C:\Users\Fabio\Desktop\Tetris Game - Copy\Game\Game\GameGrid.cpp(28,52): warning C4244:         [
+C:\Users\Fabio\Desktop\Tetris Game - Copy\Game\Game\GameGrid.cpp(28,52): warning C4244:             T=float
+C:\Users\Fabio\Desktop\Tetris Game - Copy\Game\Game\GameGrid.cpp(28,52): warning C4244:         ]
+C:\Users\Fabio\Desktop\Tetris Game - Copy\Game\Game\GameGrid.cpp(36,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Fabio\Desktop\Tetris Game - Copy\Game\Game\GameGrid.cpp(36,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game.vcxproj -> C:\Users\Fabio\Desktop\Tetris Game - Copy\Game\x64\Debug\Game.exe

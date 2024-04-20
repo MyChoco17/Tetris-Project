@@ -1,0 +1,11 @@
+﻿  Main.cpp
+  Matrix.cpp
+  MinoColours.cpp
+  Positioning.cpp
+  Tetromino.cpp
+  Generating Code...
+C:\Users\Fabio\Desktop\Tetris Game\Game\Game\Main.cpp(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\Fabio\Desktop\Tetris Game\Game\Game\Matrix.h(2,9): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Matrix.cpp')
+  
+C:\Users\Fabio\Desktop\Tetris Game\Game\Game\Tetromino.cpp(1,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
